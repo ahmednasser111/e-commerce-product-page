@@ -8,9 +8,6 @@
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-
-- [Author](#author)
 
 ## Overview
 
@@ -33,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution here](https://github.com/nasim67reja/Ecommerce.github.io)
-- Live Site URL: [ live site here](https://nasim67reja.github.io/Ecommerce.github.io/)
+- Solution URL: [solution here](https://github.com/ahmednasser111/e-commerce-product-page)
+- Live Site URL: [ live site here](https://ahmednasser111.github.io/e-commerce-product-page/)
 
 ### Built with
 
@@ -92,13 +89,3 @@ window.addEventListener("scroll", function () {
 ### Continued development
 
 I want to continue building project but these time i want to focus on javascript more than html and css.
-
-### Useful resources
-
-- [Example resource 1](https://github.com/jonasschmedtmann/complete-javascript-course/blob/master/13-Advanced-DOM-Bankist/final/script.js) - This helped me for understand the event delegation and the tab component and slider.
-
-## Author
-
-- Website - [Nasim Reja](https://www.your-site.com)
-- Frontend Mentor - [@nasim67reja](https://www.frontendmentor.io/profile/@nasim67reja)
-- Twitter - [@Nasimreja97](https://www.twitter.com/@Nasimreja97)
